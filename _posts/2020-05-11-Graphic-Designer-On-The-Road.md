@@ -4,7 +4,7 @@ title: Graphic Designer On The Road
 description: >-
   A graphic designer is a professional within the graphic design and graphic
   arts industry.
-date: {}
+date: 2020-05-11
 feature_image: images/road.jpg
 tags:
   - tips
